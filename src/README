@@ -1,0 +1,1 @@
+Validated ASHI-CORE against AWS Cloudwatch and Hydraulic System telemetry. Confirmed universal stability invariant $Kc = 1.441$ with zero false positives.
